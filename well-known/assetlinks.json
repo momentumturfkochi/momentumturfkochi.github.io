@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.naveenthomas2050.twa",
+        "sha256_cert_fingerprints": ["6A:8B:8D:42:6B:C9:5D:D3:D8:35:A7:9E:6D:04:25:78:E0:27:17:43:69:30:49:16:4F:95:42:48:2D:C9:A5:7D"]
+      }
+    }]
